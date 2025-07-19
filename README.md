@@ -10,13 +10,3 @@ I'm a Backend Developer focused on building scalable and efficient systems using
   REST APIs & backend optimization
 - ⚡ Fun fact: I love exploring how things work under the hood — whether it’s code, networks, or systems!
 
-🛠️ Tech Stack
-Languages: Java, Python, c, c++
-
-Frameworks: Spring Boot, Node.js
-
-Databases: MySQL, Redis, PostGress
-
-Tools: Kafka, Docker, Kubernetes, Git
-
-Cloud: AWS (learning)
