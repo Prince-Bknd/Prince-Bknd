@@ -10,6 +10,3 @@ I'm a Backend Developer focused on building scalable and efficient systems using
   REST APIs & backend optimization
 - ⚡ Fun fact: I love exploring how things work under the hood — whether it’s code, networks, or systems!
 
-## My Progress Overview
-
-![My Progress Chart](https://raw.githubusercontent.com/Prince-Bknd/Prince-Bknd/main/chart.png)
