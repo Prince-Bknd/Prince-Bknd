@@ -22,6 +22,6 @@ I'm a Backend Developer focused on building scalable and efficient systems using
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prince-Bknd&theme=tokyo-night)
 
 ## 🏆 GitHub Trophies
-![Trophies]([https://github-profile-trophy.vercel.app/?username=Prince-Bknd&theme=darkhub&column=4&margin-w=15&margin-h=15](https://github-profile-trophy.vercel.app/?username=Prince-Bknd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=10)](https://github.com/Prince-Bknd))
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Prince-Bknd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=10)](https://github.com/Prince-Bknd)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Prince-Bknd&color=blue)
