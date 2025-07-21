@@ -13,7 +13,6 @@ I'm a Backend Developer focused on building scalable and efficient systems using
 ## 🚀 My Progress Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-Bknd&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=tokyonight)
-&nbsp;
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Bknd&theme=tokyonight)
 
 ## 📊 Top Languages
