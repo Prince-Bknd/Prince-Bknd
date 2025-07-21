@@ -13,7 +13,7 @@ I'm a Backend Developer focused on building scalable and efficient systems using
 ## 🚀 My Progress Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-Bknd&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=tokyonight)
-&nbsp; &nbsp;
+&nbsp;
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Bknd&theme=tokyonight)
 
 ## 📊 Top Languages
@@ -25,3 +25,4 @@ I'm a Backend Developer focused on building scalable and efficient systems using
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Prince-Bknd&theme=darkhub&column=4&margin-w=15&margin-h=15)
 
+![Visitors](https://komarev.com/ghpvc/?username=Prince-Bknd&color=blue)
