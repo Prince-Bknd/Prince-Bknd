@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Backend Developer focused on building scalable and efficient systems using modern technologies. I enjoy solving real-world problems through clean architecture and reliable backend services that power seamless user experiences.
+I'm a Backend Developer focused on building scalable and efficient systems using modern technologies in **JAVA SPRING BOOT**. I enjoy solving real-world problems through clean architecture and reliable backend services that power seamless user experiences.
 
 - 🔭 I’m currently working on building event-driven backend services using Spring Boot, Kafka, Redis, and MySQL
 - 🌱 I’m currently learning Kafka stream processing, system design principles, and preparing to dive into networking and cybersecurity
