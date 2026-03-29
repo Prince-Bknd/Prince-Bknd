@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello viewers 👋🙂
 
 I'm an Experienced **Full Stack Developer** focused on building scalable, efficient, and high-performance applications using modern technologies. I specialize in designing robust backend systems with **Java Spring Boot** while also crafting seamless and responsive frontend experiences.
 I enjoy solving real-world problems through clean architecture and reliable backend services that power seamless user experiences.
